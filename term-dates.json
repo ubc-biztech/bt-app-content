@@ -1,0 +1,67 @@
+[
+  {
+    "startDate": 20200511,
+    "endDate": 20200618,
+    "title": "2020S Term 1"
+  },
+  {
+    "startDate": 20200622,
+    "endDate": 20200626,
+    "title": "2020S T1 Exams"
+  },
+  {
+    "startDate": 20200706,
+    "endDate": 20200813,
+    "title": "2020S Term 2"
+  },
+  {
+    "startDate": 20200817,
+    "endDate": 20200821,
+    "title": "2020S T2 Exams"
+  },
+  {
+    "startDate": 20200908,
+    "endDate": 20201203,
+    "title": "2020/21W Term 1"
+  },
+  {
+    "startDate": 20201207,
+    "endDate": 20201222,
+    "title": "2020/21W T1 Exams"
+  },
+  {
+    "startDate": 20210104,
+    "endDate": 20210408,
+    "title": "2020/21W Term 2",
+    "readingBreak": {
+      "startDate": 20210215,
+      "endDate": 20210219,
+      "title": "Reading Break!"
+    }
+  },
+  {
+    "startDate": 20210412,
+    "endDate": 20210427,
+    "title": "2020/21W T2 Exams"
+  },
+  {
+    "startDate": 20210510,
+    "endDate": 20210617,
+    "title": "2021S Term 1"
+  },
+  {
+    "startDate": 20210621,
+    "endDate": 20210625,
+    "title": "2021S T1 Exams"
+  },
+  {
+    "startDate": 20210705,
+    "endDate": 20210812,
+    "title": "2021S Term 2"
+  },
+  {
+    "startDate": 20210816,
+    "endDate": 20210820,
+    "title": "2021S T2 Exams"
+  }
+]
